@@ -1,4 +1,4 @@
-[English](./openagentd.md) | [简体中文](./openagentd.zh-CN.md) · [← Back](../README.md)
+[English](./openagentd.md) | [简体中文](./openagentd.zh-CN.md) · [← 返回](../README.zh-CN.md)
 
 # 接入 OpenAgentd
 
